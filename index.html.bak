@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Mihyeon Yang</title>
+  <link href="https://fonts.googleapis.com/css?family=Baloo" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Passion+One" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+	<header id="main_header">
+		<div id="title">
+			<h1>Mihyeon Yang's Portfolio </h1>
+		</div>	
+	</header>
+	<div id="content">
+		<section id=main_section>
+			<article class="main_article">
+				<h2>자기소개</h2>
+				<table border="0">
+				<tr>
+					<td>
+						<img id="img1" src="img.png" alt="그림이 존재하지 않습니다." width="150"/>
+					</td>		
+					<td>
+						<p>&emsp;</p>
+					</td>
+				</tr>
+				</table>
+			</article>
+			<article class="main_article">
+				<h2>교육</h2>
+				<p>· 명지대학교, 학과, 2006.03-xxxx.02, <b><학사학위></b></p>
+				<p class="margin_p">- 지도교수: xxx</p>
+				<p class="margin_p">- 학위논문: xxx</p>
+			</article>
+			<article class="main_article">
+				<h2>경력</h2>
+				<p>· </p>
+				<p>· </p>
+				<p class="margin_p">- 업무: </p></br>
+				<p>· </p>
+				<p class="margin_p">- 업무: </p></br>
+				<p>· </p>
+				<p class="margin_p">- 업무: </p></br>
+			</article>
+			<article class="main_article">
+				<h2>보유기술</h2>
+				<p>· </p>
+				<p>· </p>
+			</article>
+			<article class="main_article">
+				<h2>프로젝트 경험</h2>
+				
+			</article>
+			<article class="main_article">
+				<h2>논문</h2>
+				<h4>국제</h4>
+				<p>01. Lock-Free Memory Allocator Without Garbage Collection on Multicore Embedded Devices, <b>Youngjoong Cho</b>, Dongwoo Lee, Hyung Kook Jun, Young Ik Eom, ICCE 2014 (32nd IEEE Internatinal Conference on Consumer Electronics)</p>
+				<h4>국내</h4>
+				
+			</article>
+			<article class="main_article">
+				<h2>어학</h2>
+				
+			</article>
+			<article class="main_article">
+				<h2>자격증</h2>
+				
+			</article>
+			<article class="main_article">
+				<h2>관심분야</h2>
+				<p>· </p>
+				<p>· </p>
+				<p>· </p>
+				<p>· </p>
+				<p>· </p>
+			</article>
+			<article class="main_article">
+				<h2>좌우명</h2>
+				<p>· </p>
+				<p>· </p>
+			</article>
+			<article class="main_article">
+				<h2>연락처</h2>
+				<p></p>
+			</article>
+		</section>
+	</div>
+	<footer id="main_footer">
+		<h2>저작권 공지</h2>
+		<address>Copyright 2017. (양미현) all rights reserved.</address>
+	</footer>
+ </body>
+</html>
